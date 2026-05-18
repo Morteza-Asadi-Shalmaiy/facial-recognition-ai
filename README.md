@@ -6,7 +6,6 @@ https://www.insightface.ai/solutions/face-recognition-licensing (for face recogn
 we should be race specific meaning cant put a model that is trained on western trained faces to work on middle eastern faces so we move toward an better model
 
 # context summary so far
-Here's a prompt you can use when you come back:
 
 I'm building a local facial recognition system to identify people from photos by matching against a database of known faces. Priority is accuracy for Middle Eastern/Iranian faces.
 
