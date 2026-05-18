@@ -1,2 +1,1 @@
-# facial-recognition-ai
-a colabartion project, between, x &amp; y on a project subjecting facial recognition, using artificial intelligence.
+starting from the open source projects https://github.com/deepinsight/insightface seems to have the most accurate models.
