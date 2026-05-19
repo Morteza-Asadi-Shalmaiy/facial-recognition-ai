@@ -3,10 +3,10 @@ starting from the open source projects https://github.com/deepinsight/insightfac
 some importent and related links :
 https://www.insightface.ai/solutions/face-recognition-licensing (for face recognition part of project)
 
-# big mistake 
+## big mistake 
 we should be race specific meaning cant put a model that is trained on western trained faces to work on middle eastern faces so we move toward an better model
 
-# context summary so far
+## context summary so far
 
 I'm building a local facial recognition system to identify people from photos by matching against a database of known faces. Priority is accuracy for Middle Eastern/Iranian faces.
 
