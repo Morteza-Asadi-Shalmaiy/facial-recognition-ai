@@ -16,3 +16,4 @@ Goal: Working system where, i connect this to an camer and can see who is passin
 - google colab is needed, or thousonds days of pain and misory is all upon us.
 - fuck a|j.
 - youtube better source than a terebite ai model :| .
+- feeling sour af need cofee </3
