@@ -11,6 +11,7 @@ I'm building a local facial recognition system to identify people from photos by
 
 Goal: Working system where, i connect this to an camer and can see who is passing it, identifying some stuff like mode name and... add this image to a database for further studies and evaluation.
 
-# new opinion
-google colab is needed, or thousonds days of pain and misory is all upon us.
-fuck a|j.
+# new tihs
+- google colab is needed, or thousonds days of pain and misory is all upon us.
+- fuck a|j.
+- youtube better source than a terebite ai model :| .
