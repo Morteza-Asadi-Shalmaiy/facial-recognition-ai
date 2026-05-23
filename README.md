@@ -1,3 +1,7 @@
+# 23/05 new tihs
+
+---
+
 # 19/05 new tihs
 - google colab is needed, or thousonds days of pain and misory is all upon us.
 - fuck a|j.
