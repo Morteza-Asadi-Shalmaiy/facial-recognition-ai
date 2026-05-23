@@ -1,5 +1,7 @@
 # 23/05 intresting update 
 
+so there is a working version ( working is a genrous stand here ) on colab based on this vid with some updates (probably should post it here) : https://www.youtube.com/watch?si=EWGNIDw0W5Qvs5cQ&v=Y0dLgtF4IHM&feature=youtu.be
+
 ---
 
 # 19/05 new tihs
