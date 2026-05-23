@@ -1,7 +1,10 @@
 # 23/05 intresting update 
 
-so there is a working version ( working is a genrous stand here ) on colab based on this vid with some updates (probably should post it here) : https://www.youtube.com/watch?si=EWGNIDw0W5Qvs5cQ&v=Y0dLgtF4IHM&feature=youtu.be
+1. (face detection on images)so there is a working version ( working is a genrous stand here ) on colab based on this vid with some updates (probably should post it here) : https://www.youtube.com/watch?si=EWGNIDw0W5Qvs5cQ&v=Y0dLgtF4IHM&feature=youtu.be
 
+2. also working on a version that works on the video, percisly on cctv some good refrence : https://youtu.be/ppr_IOX2KSM?si=BFynuXW3P9LXtiZK
+
+   
 ---
 
 # 19/05 new tihs
