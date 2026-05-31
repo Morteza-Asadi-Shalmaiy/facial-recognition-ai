@@ -3,6 +3,7 @@
 - found a soloution for video + squares and stuff i just realized a important step the test data :)
 - note to self if you are working on a serious project make stress test data first.
 - found some words for it (Stress testing - Edge case testing - Robustness testing - Adversarial testing)
+- btw roll call / attendance taking
 ```
 Tier 1 — Baseline (should work easily)
 - 1.1 Direct camera, clean image in DB — same lighting, same angle
