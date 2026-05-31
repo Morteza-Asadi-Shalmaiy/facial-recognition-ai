@@ -4,8 +4,6 @@
 - note to self if you are working on a serious project make stress test data first.
 - found some words for it (Stress testing - Edge case testing - Robustness testing - Adversarial testing)
 ```
-
-
 Tier 1 — Baseline (should work easily)
 - 1.1 Direct camera, clean image in DB — same lighting, same angle
 - 1.2 Direct camera, DB image from a different day (slight variation)
@@ -42,15 +40,11 @@ Tier 6 — Adversarial / Edge Cases
 - 6.3 Face partially occluded (hand, object)
 - 6.4 Extreme emotion (mouth wide open, squinting)
 
----
-
-**What to track per test:**
+What to track per test:
 - Detected? (yes/no)
 - Correct name? (yes/no/unknown)
 - Confidence score (cosine similarity value)
 - Notes (e.g., "detected but wrong name at 0.38")
-
-
 ```
 
 
