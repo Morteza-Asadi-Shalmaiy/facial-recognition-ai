@@ -2,6 +2,9 @@
 - "realistic, challenging CCTV or surveillance testing" datase this is for testing i should look for.
 - first finding some datasets and then finding possible edge cases
 - testing on difrent ready face recognation models then moving on local datasets
+- some M.E. data
+- finding to localize the models properly
+
 
 ---
 
