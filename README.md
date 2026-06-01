@@ -1,3 +1,10 @@
+# 01/06 update
+- "realistic, challenging CCTV or surveillance testing" datase this is for testing i should look for.
+- first finding some datasets and then finding possible edge cases
+- testing on difrent ready face recognation models then moving on local datasets
+
+---
+
 # 31/05 not forgeting to update the doc
 - internet isnt interneting
 - found a soloution for video + squares and stuff i just realized a important step the test data :)
