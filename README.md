@@ -1,3 +1,9 @@
+# 08/06 update
+- problem, most cctv systems dont have budget for high res cameras, so far the insight face worked on 3m distance but some more problems going to surface
+- one more thing for an surveillance system to work you need fix cameras and access to alot of data about users, tough..
+- 
+---
+
 # 01/06 update
 - "realistic, challenging CCTV or surveillance testing" datase this is for testing i should look for.
 - first finding some datasets and then finding possible edge cases
