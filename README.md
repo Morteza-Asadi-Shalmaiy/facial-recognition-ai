@@ -1,6 +1,7 @@
 # 15/06 update
 - trying super resoloution increasing the faces resoloution should work i guess, trying more ways of course,
 - forgot to add more faces + a desclae or less res picture test and stuff (as database)
+- i currently have bad system for changes, should be better like the large scale models
   
 ---
 
