@@ -1,6 +1,12 @@
+# 16//06 update
+- trying super resoloution increasing the faces resoloution should work i guess, trying more ways of course,
+- forgot to add more faces + a desclae or less res picture test and stuff (as database)
+  
+---
+
 # 08/06 update
 - problem, most cctv systems dont have budget for high res cameras, so far the insight face worked on 3m distance but some more problems going to surface
-- one more thing for an surveillance system to work you need fix cameras and access to alot of data about users, tough..
+- one more thing for an surveillance system to work you need fix cameras and access to alot of data about users,
 - 
 ---
 
