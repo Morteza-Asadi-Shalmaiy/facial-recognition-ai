@@ -1,3 +1,10 @@
+# 18/06 update 
+- super res i complete, liveness needs improvment but is implememted, and we have ReID also
+- descaling the faces idea wont realy work
+- now we only need a good pipline
+
+---
+
 # 15/06 update
 - trying super resoloution increasing the faces resoloution should work i guess, trying more ways of course,
 - forgot to add more faces + a desclae or less res picture test and stuff (as database)
