@@ -2,6 +2,11 @@
 - super res i complete, liveness needs improvment but is implememted, and we have ReID also
 - descaling the faces idea wont realy work
 - now we only need a good pipline
+- need farsi date&time for timestamp
+- fix low qulity single frame and video results on screen being too small
+- outputing the results for single frame and video
+- how to have the original vid + the proccesed vid both but on lower storage (keep original, overlay the frames and stuff)
+- 
 
 ---
 
